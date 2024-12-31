@@ -1,5 +1,5 @@
 [package]
-name = "my-actix"
+name = "actix-server"
 version = "0.1.0"
 edition = "2021"
 
