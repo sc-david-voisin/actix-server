@@ -1,1 +1,1 @@
-web: pwd && ls -l
+web: /app/actix-server
