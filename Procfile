@@ -1,1 +1,1 @@
-web: actix-server
+web: ./actix-server
