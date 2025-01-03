@@ -1,1 +1,1 @@
-web: actix-server
+web: pwd && ls -la && echo $PATH && /app/bin/actix-server
