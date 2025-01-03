@@ -1,5 +1,5 @@
-use actix_web::{web, App, HttpResponse, HttpServer, Responder};
 use actix_web::middleware::Logger;
+use actix_web::{web, App, HttpResponse, HttpServer, Responder};
 use env_logger::Env;
 use std::env;
 
