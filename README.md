@@ -1,7 +1,7 @@
 # Test actix-server
 
-Tiny HTTP server that serves web page on port 8080.
-Listens on port defined by `PORT` environment variable if present.
+Tiny HTTP server that serves web page on port 8080 by default.
+Listens on port defined by `PORT` environment variable instead if present.
 
 Based on [Actix Web](https://actix.rs/) <3
 
