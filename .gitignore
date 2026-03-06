@@ -1,2 +1,4 @@
+bin/
 Cargo.lock
-/target
+rustup.sh
+target/
