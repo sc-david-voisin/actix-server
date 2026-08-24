@@ -13,7 +13,7 @@ libexpat1
 libfontconfig1
 libgbm-dev
 libgcc-s1
-libgdk-pixbuf2.0-0
+libgdk-pixbuf-xlib-2.0-0
 libglib2.0-0t64
 libgraphite2-3
 libgtk2.0-0t64
